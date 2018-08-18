@@ -1,0 +1,27 @@
+{
+  "name": "week14_assignment",
+  "version": "1.0.0",
+  "description": "burger logger using mysql, node, express, handlebars, and orm",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "github:mysqljs/mysql"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fysics7/Burger.git"
+  },
+  "author": "Jeffrey Mills",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fysics7/Burger/issues"
+  },
+  "homepage": "https://github.com/Fysics7/Burger#readme"
+}
